@@ -140,7 +140,7 @@
 - Name: Magnavox Odyssey 2
   Id: magnavox_odyssey_2
   IgdbId: 133
-  Databases: [Magnavox - Odyssey 2]
+  Databases: [Magnavox - Odyssey2]
   Emulators: [bizhawk]
   
 - Name: Mattel Intellivision
@@ -464,10 +464,12 @@
   
 - Name: TIC-80
   Id: tic_80
+  Databases: [TIC-80]
   Emulators: [bizhawk]
   
 - Name: Uzebox
   Id: uzebox
+  Databases: [Uzebox]
   Emulators: [bizhawk]
 
 - Name: Watara Supervision
